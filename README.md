@@ -23,7 +23,7 @@ Then use these commands in the terminal:
 <pre> <code>```npm start ```</code> </pre>
 
 ## Usage
-This project is used to simulate a vehicle that can be interacted with via command line prompts
+Walkthrough video: https://app.screencastify.com/v2/watch/QeRgzO1GRzgFLTHZuDV5
 
 ## Contributing
 If you would like to contribute email me
